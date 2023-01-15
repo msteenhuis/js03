@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  list-style-position: inside;
+}
+
+/*
+table {
+  border: thick solid black;
+  width: 100%;
+}
+
+td {
+  border: thin solid black;
+  padding: 3px;
+  width: 15%;
+}
+
+th {
+  border: medium solid black;
+  padding: 5px;
+}
+
+*/
+
+table {
+  border: thick solid grey;
+  border-collapse: collapse;
+  width: 25%;
+}
+
+div {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  font-size:24pt;
+}
